@@ -32,6 +32,7 @@ else if (escolhaArea == 2) {
     else {
         alert("Não lhe entendi :.(");
     }
+    //
 }
 alert("Ao fim dessa aventura, você gostaria de continuar se especializando nos caminhos que escolheu para se tornar o melhor de todos? Ou prefere seguir treinando para se tornar um legítimo Fullstack?");
 escolhaFinal = prompt("Digite 1 para a primeira opção e 2 para a segunda!");
