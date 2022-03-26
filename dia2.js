@@ -9,3 +9,4 @@ if (gosto == 1) {
 if (gosto == 2) {
     alert("Ahh que pena... Já tentou aprender outras linguagens?");
 }
+//
