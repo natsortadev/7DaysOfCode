@@ -1,5 +1,4 @@
-<a href="https://github.com/nat-thunder/7DaysOfCode/blob/main/README-ptbr.md" onclick="BR()"><img src="https://img.shields.io/badge/%20PT&#8208;BR-yellow.svg?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/%20EN-blue.svg?style=for-the-badge"></a>
+<a href="https://github.com/nat-thunder/7DaysOfCode/blob/main/README-ptbr.md"><img src="https://img.shields.io/badge/%20🇧🇷%20LER%20EM%20PT&#8208;BR-yellow.svg?style=for-the-badge"></a>
 
 # 📑 7DaysOfCode
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
